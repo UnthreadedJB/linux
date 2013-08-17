@@ -5,7 +5,7 @@
  * Defines for what uname() should return 
  */
 #ifndef UTS_SYSNAME
-#define UTS_SYSNAME "Linux"
+#define UTS_SYSNAME "UNTHEDEURENIX PROFESIONAL KERNEL RELEES v50.00 ALAPHA"
 #endif
 
 #ifndef UTS_NODENAME
