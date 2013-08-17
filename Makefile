@@ -1,8 +1,8 @@
 VERSION = 3
-PATCHLEVEL = 11
+PATCHLEVEL = 95
 SUBLEVEL = 0
-EXTRAVERSION = -rc5
-NAME = Linux for Workgroups
+EXTRAVERSION = -UNTHREDED
+NAME = UNTHREDURENIX
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
